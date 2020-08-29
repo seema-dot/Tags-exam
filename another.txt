@@ -1,1 +1,2 @@
 Hello Another  file
+Another new line was added to the another file.txt
